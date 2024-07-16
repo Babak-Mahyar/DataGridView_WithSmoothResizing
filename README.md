@@ -9,3 +9,4 @@ https://stackoverflow.com/questions/78745707/smoothly-show-resizing-of-datagridv
 
 This code was written by me in response to the above question.
 Of course, it may have problems and bugs. Not fully tested, but in the initial test, it almost covered the topic.
+This code was developed in Visual Studio 2022 with .NET 4.6.2 on Windows 11.
